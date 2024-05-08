@@ -1,4 +1,3 @@
-from django.shortcuts import render,redirect,get_object_or_404
 from django.shortcuts import render, redirect
 from django.urls import reverse_lazy
 from django.views.generic import View, UpdateView
@@ -15,7 +14,8 @@ from .tokens import account_activation_token
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import login, authenticate, logout
 from django.contrib.auth.models import User
-from django.utils.encoding import force_text
+# Remove the following import as force_text is no longer available
+# from django.utils.encoding import force_text
 from django.http import HttpResponse
 from django.contrib.auth.mixins import UserPassesTestMixin, LoginRequiredMixin
 from .models import Profile
@@ -27,10 +27,6 @@ from forum.forms import PostForm, CommentForm
 from event.models import Event
 
 # Create your views here.
-
-
-# Create your views here.
-
 
 # Sign Up View
 class SignUpView(View):
@@ -46,7 +42,7 @@ class SignUpView(View):
         if form.is_valid():
 
             user = form.save(commit=False)
-            user.is_active = False # Deactivate account till it is confirmed
+            user.is_active = False  # Deactivate account till it is confirmed
             user.save()
 
             current_site = get_current_site(request)
@@ -62,12 +58,11 @@ class SignUpView(View):
             return HttpResponse('We have sent you an email, please confirm your email address to complete registration')
         return render(request, self.template_name, {'form': form})
 
-def forgot_password (request):
+def forgot_password(request):
     return render(request, 'authentication/forgot_password.html')
 
 
-
-class dashboard(View):
+class Dashboard(View):
     def get(self, request, *args, **kwargs):
         posts = Post.objects.all().order_by('-created_on')
         all_event = Event.objects.all()
@@ -76,7 +71,7 @@ class dashboard(View):
         context = {
             'post_list': posts,
             'form': form,
-            'event':all_event,
+            'event': all_event,
         }
         return render(request, 'authentication/dashboard.html', context)
 
@@ -97,12 +92,12 @@ class dashboard(View):
 
 @login_required
 def logout_user(request):
-	logout(request)
-	messages.info(request,('You are now logged out'))
-	return redirect('/')
+    logout(request)
+    messages.info(request, 'You are now logged out')
+    return redirect('/')
 
 
-def signin (request):
+def signin(request):
     if request.method == 'POST':
         username = request.POST.get('username')
         password = request.POST.get('password1')
@@ -115,7 +110,7 @@ def signin (request):
             messages.error(request, "Invalid username or password.")
     else:
         messages.error(request, "Invalid username or password.")
-    form = SignUpForm() 
+    form = SignUpForm()
     return render(request, 'authentication/signin.html', {'form': form})
 
 
@@ -123,7 +118,7 @@ class ActivateAccount(View):
 
     def get(self, request, uidb64, token, *args, **kwargs):
         try:
-            uid = force_text(urlsafe_base64_decode(uidb64))
+            uid = urlsafe_base64_decode(uidb64).decode()
             user = User.objects.get(pk=uid)
         except (TypeError, ValueError, OverflowError, User.DoesNotExist):
             user = None
@@ -132,11 +127,11 @@ class ActivateAccount(View):
             user.is_active = True
             user.profile.email_confirmed = True
             user.save()
-            login (request, user)
-            messages.success(request, ('Your account have been confirmed.'))
+            login(request, user)
+            messages.success(request, 'Your account has been confirmed.')
             return redirect('signin')
         else:
-            messages.warning(request, ('The confirmation link was invalid, possibly because it has already been used.'))
+            messages.warning(request, 'The confirmation link was invalid, possibly because it has already been used.')
             return redirect('signin')
 
 
@@ -153,44 +148,32 @@ class ProfileView(View):
         }
         return render(request, 'authentication/profile.html', context)
 
-def browsepractitioners (request):
+def browsepractitioners(request):
     profile = Profile.objects.all()
-    paginator = Paginator(profile, 6) # 2 posts in each page
+    paginator = Paginator(profile, 6)  # 2 posts in each page
     page = request.GET.get('page')
     try:
-       posts = paginator.page(page)
+        posts = paginator.page(page)
     except PageNotAnInteger:
-       # If page is not an integer deliver the first page
-       posts = paginator.page(1)
+        # If page is not an integer deliver the first page
+        posts = paginator.page(1)
     except EmptyPage:
-       # If page is out of range deliver last page of results
-       posts = paginator.page(paginator.num_pages)
+        # If page is out of range deliver last page of results
+        posts = paginator.page(paginator.num_pages)
 
-    context = { 'posts':posts }
+    context = {'posts': posts}
     return render(request, 'practitionner/browsepractitionners.html', context)
 
-class ProfileView(View):
-    def get(self, request, pk, *args, **kwargs):
-        profile = Profile.objects.get(pk=pk)
-        user = profile.user
-        posts = Post.objects.filter(author=user).order_by('-created_on')
-
-        context = {
-            'user': user,
-            'profile': profile,
-            'posts': posts,
-        }
-        return render(request, 'partials/_sidebar.html', context)
 
 class ProfileEditView(LoginRequiredMixin, UserPassesTestMixin, UpdateView):
     model = Profile
     fields = ['name', 'bio', 'birth_date', 'location', 'picture']
     template_name = 'authentication/profile_edit.html'
-    
+
     def get_success_url(self):
         pk = self.kwargs['pk']
         return reverse_lazy('profile', kwargs={'pk': pk})
-    
+
     def test_func(self):
         profile = self.get_object()
         return self.request.user == profile.user
@@ -200,11 +183,11 @@ class ProfileEditView(LoginRequiredMixin, UserPassesTestMixin, UpdateView):
     model = Profile
     fields = ['name', 'bio', 'picture']
     template_name = 'authentication/profile_edit.html'
-    
+
     def get_success_url(self):
         pk = self.kwargs['pk']
         return reverse_lazy('profile', kwargs={'pk': pk})
-    
+
     def test_func(self):
         profile = self.get_object()
         return self.request.user == profile.user

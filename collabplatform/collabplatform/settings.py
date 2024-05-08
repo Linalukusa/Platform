@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'ckeditor',
     'wagtailcolumnblocks',
     'tinymce',
-
+'crispy_bootstrap4',
 
     'django.contrib.admin',
     'django.contrib.auth',

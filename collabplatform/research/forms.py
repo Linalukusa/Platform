@@ -1,7 +1,7 @@
 from django import forms
 from .models import Research
 from django.core.exceptions import ValidationError
-from bootstrap_datepicker_plus import DatePickerInput
+from bootstrap_datepicker_plus.widgets import DateTimePickerInput
 
 
 class ResearchCreationForm(forms.ModelForm):
@@ -10,8 +10,8 @@ class ResearchCreationForm(forms.ModelForm):
         fields = ['title', 'leadresearcher', 'publisher','city','website','researchfile',
         'email','startdate','enddate','description','collab','funding']
         widgets = {
-        'startdate': DatePickerInput(),
-        'enddate':DatePickerInput(),
+        'startdate': DateTimePickerInput(),
+        'enddate':DateTimePickerInput(),
     }
         
 
@@ -22,6 +22,6 @@ class ResearchUpdateForm(forms.ModelForm):
         fields = ['title', 'leadresearcher', 'publisher','city','website','researchfile',
         'email','startdate','enddate','description','collab','funding']
         widgets = {
-        'startdate': DatePickerInput(),
-        'enddate':DatePickerInput(),
+        'startdate':DateTimePickerInput(),
+        'enddate':DateTimePickerInput(),
     }
