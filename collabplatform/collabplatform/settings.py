@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     'event.apps.EventConfig',
     'bootstrap_datepicker_plus',
     'discussion.apps.DiscussionConfig',
+    'scholarship.apps.ScholarshipConfig',
     'projects.apps.ProjectsConfig',
     'research.apps.ResearchConfig',
     'homepage.apps.HomepageConfig',

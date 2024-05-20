@@ -1,0 +1,1281 @@
+Tariff Code, Tariff Code Description
+nan, In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.
+nan, The schedule includes procedures and services for use by Oral Health Care Providers for purposes of keeping accurate patient records, reporting procedures on patients, and processing oral health care related insurance claims. The procedures are those performed by general dental practitioners, oral pathologists, prosthodontists, periodontists, orthodontists, maxillo-facial and oral surgeons and dental therapists._x000D_
+_x000D_
+The procedures codes listed in the schedule have, for the convenience in using the schedule, been divided into categories of services, based on the branches of clinical dental practice. The procedures are grouped under the category of service with which the procedures are most frequently identified and should not be interpreted as excluding certain categories of Oral Health Care Providers from performing such procedures. Individual procedure codes consist of a procedure code, procedure description (nomenclature), and when necessary, a descriptor, that provides further definition and/or guidelines to clarify the intended use of the procedure code.
+I., INTRODUCTION
+A., Administrative and invoicing rules
+001, Invoices:
+nan, a.	A practitioner shall render a monthly invoice for every procedure which has been completed irrespective of whether the total treatment plan has been concluded.	_x000D_
+nan, b.	An invoice shall contain the following particulars:
+nan, i. The surname and initials of the member;_x000D_
+ii. The first name of the patient;_x000D_
+iii. The name of the scheme;_x000D_
+iv. The membership number of the member;_x000D_
+v. The practice number;_x000D_
+vi. The date on which every service was rendered;_x000D_
+vii. The code number, description and fee/benefit of the procedure or service;_x000D_
+viii. The name of the dentist rendering the service;_x000D_
+ix. The name of the general dental practitioner/specialist assistant (when applicable);_x000D_
+x. The appropriate ICD-10 code(s) for the procedures performed.
+nan, Note: Photocopies of original invoices shall be certified by way of a rubber stamp or the signature of the dentist.
+002, Cost of direct materials:
+The expenses incurred for direct materials identified in the Schedule may be billed in addition to the procedure code. These expenses are limited to the net acquisition cost of the materials and a handling fee. The price of the materials should be VAT inclusive. Use Modifier 8025 for handling fee.
+003, Dental laboratory services:
+nan, Manual submission of invoices. Fees charged by dental technicians for laboratory services (PLUS L) shall be indicated on the dentist's invoice by reporting code 8099 - Dental laboratory service with the appropriate laboratory fee on the line following the relevant dental procedure code._x000D_
+The technician's invoice shall be certified by the dentist (or a person appointed by the dentist) for correctness by means of a signature. The original invoice of the dental technician (or a copy thereof) shall accompany the invoice of the dentist and a copy (or the original) shall be filed by the dentist for record purposes.
+nan, Electronic submission of invoices.  Fees charged by dental technicians for laboratory services (PLUS L) shall be indicated on the dentist's invoice by submitting code 8099 - Dental laboratory service with the appropriate laboratory fee on the line following the relevant dental procedure code on the date on which the dental procedure was rendered. The laboratory fee shall be submitted for payment on the date on which the procedure code is submitted for payment, and the appropriate dental laboratory service codes shall be reported on the lines following code 8099._x000D_
+The technician's invoice shall be certified by the dentist (or a person appointed by the dentist) for correctness by means of a signature. The original invoice of the dental technician shall be filed by the dentist for record purposes.
+005, Procedure accompanied by unusual circumstances:
+In exceptional cases where the proposed fee/benefit is disproportionately low in relation to the actual services rendered by a practitioner, such higher fee as may be mutually agreed upon between the dental practitioner and the patient/medical scheme may be billed. Use Modifier 8011 with a narrative description.	
+Under certain circumstances a service or procedure is partially reduced or eliminated at the practitioner's election. Under these circumstances a lower fee may be billed. The service provided can be identified by its usual procedure code and the addition of Modifier 8012, signifying the service is reduced.
+B., General coding rules
+006, The schedule does not prescribe the scope of practice of a particular category of Oral Health Care Provider; neither does it confine the performing of procedures or services to a registered speciality. Fees listed within a column of a particular category of Oral Health Care Provider are customary fees, should the procedure or service be rendered by that provider category.
+Specialists are however encouraged to confine their practice to the speciality or related specialities in which they are registered. Specialist may charge fees for procedures or services which usually pertain to some other speciality, if such procedures or services are also recognised in their speciality, and if it is carried out only for their bona fide patients. Such fees shall not be higher than those charged by general practitioners for the same procedures or services (HPCSA, Rule 25).
+Fees for procedures or services not listed within the column of dental therapists that do fall within the field of dental therapy in terms of their scope of practice are regarded as being “by arrangement” until such fees are listed.
+007, Procedures not listed in the Dental Schedule
+nan, When a procedure is performed that is not listed in the schedule, an appropriate procedure code, listed in the NHRPL for medical practitioners may be reported.
+nan, Unlisted procedures.  Any procedure that is neither described in the schedule, nor in the medical schedule, should be reported using code 9099 - Unlisted dental procedure or service. The fee for an unlisted dental procedure or service should be based on the fee of a comparable procedure. Code 9099 codes should not be used to report procedures where the fee is determined “by arrangement” with the patient and/or medical scheme.
+C., Services rules
+008, Oral evaluations and completion of treatment plans:
+Oral examinations include an examination, diagnosis and treatment planning (when treatment is required). No further fees/benefits shall be levied for an oral examination (code 8101) or comprehensive examination (code 8102) until the treatment plan resulting from these type of examinations is completed.
+The completion of a treatment plan effected from an oral examination and/or comprehensive examination should be indicated by reporting code 8120 – Treatment plan completed.
+
+Oral diagnosis defined.  The determination by the dentist of the oral health condition of an individual patient achieved through the evaluation of data gathered by means of history taking, direct examination, patient conference, and such clinical aids and tests as may be necessary in the judgement of the dentist.
+
+Treatment plan defined.  The treatment plan is the sequential guide for the patient’s care as determined by the dentist’s diagnosis and is used by the dentists for the restoration and/or maintenance of optimal oral health
+009, Surgery guidelines:
+nan, 1.	Follow-up care for therapeutic surgical procedures: The fee/benefit for an operation shall, unless otherwise stated, include normal post-operative care for a period not exceeding four months. If a practitioner does not him/herself complete the post-operative care, he/she shall arrange for post-operative care without additional charges. A fee/benefit for post-operative treatment of a prolonged or specialised nature may be charged as agreed upon between the practitioner and the scheme.
+nan, 2.	Multiple Procedures (Maxillo-facial and oral surgery):  The fee/benefit for more than one operation or procedure performed through the same incision shall be determined as the fee for the major operation plus fee/benefit for the subsidiary operation to the indicated maximum for each such subsidiary operation or procedure (Modifier 8005). The fee/benefit for more than one operation or procedure performed under the same anaesthetic but through another incision shall be determined on the fee/benefit for the major operation plus: 75% for the second procedure/operation (Modifier 8009). 50% for the third and subsequent procedures/operations (Modifier 8006). This rule shall not apply where two or more unrelated operations are performed by practitioners in different specialities, in which case each practitioner shall be entitled to the full fee/benefit of the operation. If, within four months, a second operation for the same condition or injury is performed, the fee/benefit for the second operation shall be 50% of that of the first operation (Modifier 8006).
+nan, 3.	Assistant Surgeon (Maxillo-facial and periodontal surgery): The fee payable to a specialist assistant is determined as 1/3 (of the fee of the practitioner performing the procedure (Modifier 8001). The fee payable to a general dental practitioner assistant is determined as 15% (of the fee of the practitioner performing the procedure (Modifier 8007). The patient must be informed beforehand that another dentist/specialist will be assisting at the operation and that a fee will be payable to the assistant. The assistant's name must appear on the invoice rendered to the patient.
+nan, 4.	Surgical team (Maxillo-facial and oral surgery): The additional fee to all members of the surgical team for after hours emergency surgery shall be calculated by adding 25% to the fee for the procedure or procedures performed (Modifier 8008).
+010, Orthodontic guidelines:
+nan, The documentation and first invoice to the patient/medical scheme regarding orthodontic services will include the following information:_x000D_
+a. The treatment plan and type of treatment (treatment code number);_x000D_
+b. A diagnostic code (ICD-10) and_x000D_
+c. An orthodontic payment plan indicating the following:_x000D_
+   i.  The total fee that will be levied for the treatment;_x000D_
+   ii.  The total months of orthodontic treatment (retention period excluded);_x000D_
+   iii. The initial fee payable by the patient (approximately 20% of the total fee); and_x000D_
+   iv. The monthly payments of the balance of the fee.
+nan, 2.	The fee for orthodontic treatment does not include a clinical oral evaluation and necessary diagnostic services.  The fee for corrective therapy (i.e. codes 8861 to 8888) is an inclusive fee and no additional fees may be levied for intra-operative oral evaluations and preventive services.  A pre-orthodontic treatment visit, an orthodontic retention, and an oral evaluation on completion of the treatment plan (retention phase included) are excluded and should be reported in addition to corrective orthodontic treatment as separate procedures (Code 8803 x3). Intra/post orthodontic treatment records consisting of radiographs/diagnostic images (limited to a cephalometric film and 5 oral/facial images) and diagnostic casts may be levied when a corrective orthodontic treatment plan is completed (retention phase included).
+nan, 3.	The fee for 'Fixed appliance therapy' (codes 8861 and 8865 to 8888), as determined by the individual practitioner, will be levied on a monthly manner over the treatment period (retention phase excluded).
+nan, 4.	When partial fixed appliance or preliminary orthodontic treatment (codes 8858, 8861, 8865 or 8866) is followed by full fixed appliance orthodontic treatment (codes 8873 to 8888) provided by the same orthodontist, the fees levied for the partial fixed appliance therapy or preliminary treatment will be deducted from the fee quoted for the full fixed appliance orthodontic treatment.
+nan, 5.	The total fee for multiple phases of full fixed appliance orthodontic treatment provided by the same orthodontist may not exceed the most recent fee (determined on commencement date of the final stage of full fixed appliance treatment) for the appropriate full fixed orthodontic procedure.
+nan, 6.	When the patient transfers to another practitioner during treatment, or treatment is terminated for any reason, the original treating practitioner must report the number of treatment months remaining and determine the balance of the fee by applying the following formula: Total payment (for treatment only) minus 20% of the total fee (for banding - when applicable) multiplied by the percentage of treatment remaining. For example, if the practitioner was paid R 10,000.00 for a 24-month treatment plan and 18 months of treatment were completed. The balance would be R 2,000.00 (or R 10,000.00 - R 2,000.00 x 6/24). The length of the treatment plan from the original request for authorisation will be used to determine the number of treatment months remaining. The practitioner continuing treatment will provide the information stipulated in paragraph 1 above. Report code 8891 (Orthodontic transfer) with the fee that will be levied for continuation of the treatment in addition to the appropriate orthodontic treatment code. The fee for continuous treatment is subject to prior authorisation by the patient's medical scheme.
+nan, 7.	When an established orthodontic patient requires re-treatment, the information stipulated in paragraph 1 above and the cause(s) for re-treatment will be provided. Report code 8892 (Orthodontic re-treatment) with the fee that will be levied for re-treatment in addition to the appropriate orthodontic treatment code. Orthodontic re-treatment is subject to prior authorisation by the patient's medical scheme.
+011, Dento-legal fees:
+Practitioners are entitled to remuneration if they are present at Court at the request of an advocate or attorney. Use code 8111 (Dental testimony) to report dento-legal work. The code is listed in the adjunctive general services sections in the code lists.
+D., Modifiers
+012, Modifiers:
+Modifiers should be used with procedures identified throughout the NHRPL.	
+Modifiers provide the means by which the reporting practitioner can indicate that a service or procedure that has been performed has been altered by some specific circumstance but not changed it its definition or code. The sensible application of modifiers obviates the necessity for separate procedure listings that may describe the modifying circumstance.  Modifiers may be used to indicate to the recipient of the report that:	
+a.	A service or procedure was performed by more than one practitioner.	
+b.	A service or procedure has been increased or reduced.	
+c.	Only part of a service was performed.	
+d.	An adjunctive service was performed.	
+e.	A service or procedure was provided more than once.	
+f.	The fee/benefit was altered due to a financial agreement.
+8001, Assistant surgeon - specialist (1/3 of the appropriate benefit)
+8005, Maximum multiple procedures (same incision) - MFO surgeon
+8006, Multiple surgical procedures -  third and subsequent procedures (50% of the appropriate benefit)
+8007, Assistant surgeon - general dental practitioner (15% of the appropriate benefit)
+8008, Emergency surgery - after hours (PLUS 25% of the appropriate benefit)
+8009, Multiple surgical procedures - second procedure (75% of the appropriate benefit)
+8010, Open reduction (PLUS 75% of the appropriate benefit)
+8011, Procedure accompanied by unusual circumstances (Benefit PLUS X % as determined by the practitioner and agreed upon by patient/medical scheme)
+8012, Reduced services (benefit MINUS X % as determined by the practitioner)
+8013, Multiple modifiers
+8023, Fabrication of inlay/onlay (PLUS 25% of the appropriate benefit)
+8025, Handling fee - direct materials (26% of material cost to a maximum of R26.00)
+E., Explanations
+nan, Tooth identification and designation of areas of the oral cavity:
+nan, Tooth identification and designation of areas of the oral cavity is compulsory for all invoices rendered. Tooth identification is applicable to procedures identified with the letter ( T ), and other designation of areas of the oral cavity with the letter ( Q ) for a quadrant and the letter ( M ) for the maxillary or mandibular area in the mouth part ( MP ) column of the Dental Coding. The International Standards Organisation (ISO) in collaboration with the FDI designated system for teeth and areas of the oral cavity should be used. For supernumeraries, the abbreviation SUP should be used.
+nan, Treatment categories:
+nan, Treatment categories (TC) of dental procedures are identified in the TC column of the Dental Coding as follows:_x000D_
+Basic dentistry	- designated as ( B ) in the treatment category column_x000D_
+Advanced dentistry	- designated as ( A ) in the treatment category column_x000D_
+Surgery	- designated as ( S ) in the treatment category column
+nan, Abbreviations used in Dental Coding
+nan, DM	Direct Material Column	_x000D_
++D	Add fee/benefit for denture	_x000D_
++L	Add laboratory fee	_x000D_
++M	Add material fee
+nan, MP	Mouth Part Column_x000D_
+M	Maxilla/Mandible_x000D_
+Q	Quadrant_x000D_
+S	Sextant_x000D_
+T	Tooth
+nan, TC	Treatment Category Column_x000D_
+A	Advanced dentistry_x000D_
+B	Basic dentistry_x000D_
+S	Surgery
+nan, Practice type codes:_x000D_
+ 25400  General Dental Practitioner_x000D_
+ 26200  Specialist Maxillo Facial and Oral Surgeon_x000D_
+ 26400  Specialist Orthodontist_x000D_
+ 29200  Specialist in Oral Medicine and Periodontics_x000D_
+ 29400  Specialist Prosthodontist_x000D_
+ 29800  Specialist Oral Pathologist_x000D_
+ 39500  Dental Therapist
+F., Guidelines to medical schemes
+nan, Age of a Child. _x000D_
+The determination of a child or adult status of the patient should be based on the clinical development of the patient's dentition. Where administrative constraints preclude the use of clinical development so that the chronological age must be used to determine the child or adult status, the patient is defined as an adult beginning at age 12 with the exclusion of treatment for orthodontics or sealants.
+nan, Frequency of benefits._x000D_
+The South African Dental Association recommends to medical schemes, where considered necessary and appropriate, that contract limitations on the frequency of providing care for certain services be stated as “twice a calendar year” rather than once in every six months.
+nan, Radiographs and records._x000D_
+Radiographs should be taken only for clinical reasons as determined by the treating dentist. Postoperative radiographs should only be required as part of dental treatment. When a dentist determined it is appropriate to comply with a third-party payer's request for radiographs, a duplicate set should be submitted and the originals retained by the dentist. Any additional costs incurred by the dentists in copying radiographs and clinical records for claims determination should be reimbursed by the third-party payer or the patient.
+nan, New vs. established patient._x000D_
+A new patient is one who has not received any professional services from the dentist or another dentist of the same speciality who belongs to the same group practice, within the past three years. An established patient (patient of record) is one who has received professional services from the dentist or another dentist of the same speciality who belongs to the same group practice, within the past three years._x000D_
+In the instance where a dentist is on call for or covering for another dentist, the patient's encounter will be classified as it would have been by the dentist who is not available.
+II., DENTAL PROCEDURES AND SERVICES
+A., DIAGNOSTIC SERVICES
+nan, The branch of dentistry used to identify and prevent dental disorders and disease. Includes all services/procedures available to the dentist for evaluating existing conditions and determining any further dental care that may be required.
+nan, CLINICAL ORAL EXAMINATIONS
+nan, The purpose of oral examinations is to observe and record pertinent information, past and present, necessary to arrive at a diagnosis and treatment plan (when treatment is indicated).  A treatment plan is a list of procedures or services the dentist proposes to perform on a dental patient based on the results of the examination and diagnosis. Often more than one treatment plan is presented._x000D_
+Oral examinations may require the integration of information that is acquired through additional diagnostic procedures, which should be reported separately. The oral examination, diagnosis, and treatment planning are the responsibility of the dentist. The collection and recording of some data and components of the oral examination may however be delegated. Oral examinations and consultations include the issuing of prescriptions where medication is required.
+8105, Case presentation – extensive treatment planning Use this code for the presentation of a treatment plan to a patient as a result of an extensive oral examination (Code 8103) and treatment planning (e.g. orthognathic case presentation to the patient and family). This code may not be reported on the same day as the examination or any other procedure
+8893, Telephonic/electronic consultation
+8894, Consultation without the patient (with family for consent or writing of special reports, or preparation of quotations)
+8895, Examination under general anaesthesia
+nan, General Dental Practitioner
+8101, Oral examination
+8102, Comprehensive oral examination
+8104, Limited oral examination
+8189, Re-examination - existing condition
+8176, Periodontal screening
+8181, Administration of dermal filler within the peri-oral area.
+8182, Cost of dermal filler.
+8190, Consultation - second opinion or advice
+nan, Maxillo Facial Surgeon
+8901, Consultation - MFOS
+8902, Consultation - MFOS (detailed)
+*8840, Treatment planning for orthognathic surgery - ALL
+nan, Orthodontist
+8801, Consultation - Orthodontist
+8802, Orthodontic consultation and treatment planning.
+8803, Consultation - Orthodontis (subsequent, retention and post treatment)
+8837, Diagnosis and treatment planning - Orthodontist
+nan, Periodontist/Oral Medicine
+nan, Codes 8701, 8703, 8705 and 8707 cannot be charged at one and the same visit.
+8701, Consultation - periodontist
+8703, Consultation - Periodontist (detailed)
+8705, Re-examination - Periodontist
+8707, Periodontal screening - Periodontist
+8722, Cost of provisional splinting materials. See Rule 002 Appendix A.
+8781, Consultation - Oral medicine (simple)
+8782, Consultation - Oral medicine (complex)
+8783, Consultation - Oral medicine (subsequent)
+nan, Prosthodontist
+8501, Consultation - Prosthodontis
+8507, Comprehensive consultation - Prosthodontist
+8506, Detailed consultation - Prosthodontist
+nan, Oral Pathologist
+9201, Consultation - oral pathologist
+9205, Consultation - oral pathologist (subsequent)
+nan, RADIOGRAPHS/DIAGNOSTIC IMAGING
+nan, Diagnostic radiographs/diagnostic images include interpretation._x000D_
+Radiographs/diagnostic images should only be taken for clinical reasons as determined by the dentist and practitioners should comply with the Regulations concerning safe radiological practice and take the necessary precaution to minimise radiation of patients. Radiographs/diagnostic images are part of the patient's clinical record, should be of diagnostic quality, properly identified and dated. The dentist should retain the original images and only copies should be used to fulfil requests made by patients or third party funders._x000D_
+A complete series of intra-oral radiographs/images for diagnostic purposes is required once per treatment plan only.  A second series may be required in exceptional cases e.g., following periodontal surgery. The same applies to panoramic films, where additional films may be required for follow-up/re-evaluation purposes._x000D_
+Diagnostic radiographs/diagnostic images preceding endodontic treatment, periodontal treatment, the surgical extraction of teeth or roots and fixed prostheses are fundamental to ethical clinical practice.
+8107, Intraoral radiograph - periapical
+8108, Intraoral radiographs - complete series
+8112, Intraoral radiograph - bitewing
+8113, Intraoral radiograph - occlusal
+8114, Extraoral radiograph - hand-wrist
+8115, Extraoral radiograph - panoramic
+8116, Extraoral radiograph - cephalometric
+8118, Extraoral radiograph - skull/facial bone
+8121, Oral and/or facial image (digital/conventional)
+8601, Computerised implant planning
+8602, Computer Generated Surgical Guide
+8483, Cost of CT Scan DICOM conversion
+8485, Cost of the production of a computer generated surgical guide using rapid prototyping. Systems using computer generated laboratory techniques (e.g. Med 3-D) can use laboratory technician codes.(8099)
+8193, Three-dimensional reconstruction of cone beam volumetric image using existing data (includes multiple images)
+8194, CBCT capture and interpretation with limited field of  view –less than one whole jaw
+8195, CBCT capture and interpretation with limited field of  view  of one full dental arch -mandible
+8196, CBCT capture and interpretation with limited field of  view  of one full dental arch – maxilla without orbits and/or cranium
+8199, CBCT capture and interpretation with limited field of  view  of one full dental arch – maxilla with orbits and/or cranium
+8197, CBCT capture and interpretation with limited field of  view  of both dental arches –without orbits and  or cranium
+8200, CBCT capture and interpretation with field of  view  of both dental arches –with orbits and/or cranium
+8217, CBCT capture and interpretation for the visualisation of sinuses
+8198, CBCT capture and interpretation for TMJ series including two or more exposures.
+8205, CBCT image capture with limited field of  view –less than one whole jaw
+8206, CBCT image capture with limited field of  view of one full dental arch -mandible
+8207, CBCT image capture with limited field of view of one full dental arch – maxilla without orbits and or cranium
+8210, CBCT image capture with limited field of  view  of one full dental arch – maxilla with orbits and/or cranium
+8208, CBCT capture with limited field of view of both dental arches –without orbits and or cranium
+8211, CBCT capture with field of view of both dental arches –with orbits and/or cranium
+8218, CBCT capture for the visualisation of sinuses
+8209, CBCT capture for TMJ series including two or more exposures.
+8203, Interpretation of diagnostic image by a practitioner not associated with capture of the image, including  the report
+8212, Interpretation of diagnostic image by a practitioner associated with capture of the image, including the report
+8219, Report by a third party on pathology, implant measurements, endodontics, orthodontic measurements, nerve proximities etc
+nan, OTHER DIAGNOSTIC PROCEDURES
+8117, Diagnostic models
+8119, Diagnostic models mounted
+8126, Digital Diagnostic Models
+*8122, Microbiological studies
+*8123, Caries susceptibility tests (By Arrangement)
+8124, Pulp tests
+8125, Pulp tests – more than 3 teeth. See Code 8124 for descriptor
+8503, Occlusion analysis mounted
+8505, Pantographic recording
+*8508, Electrognathographic recording
+*8509, Electrognathographic recording with computer analysis
+8811, Tracing and analysis of extra-oral film
+8839, Diagnostic setup (orthodontics)
+B., PREVENTIVE SERVICES
+nan, Services/procedures intended to eliminate or reduce the need for future dental treatment.
+nan, DENTAL PROPHYLAXIS
+8155, Polishing - complete dentition
+8159, Prophylaxis - complete dentition
+*8160, Removal of gross calculus
+8179, Polishing - complete dentition (periodontally compromised patient)
+8180, Prophylaxis - complete dentition (periodontally compromised patient)
+nan, TOPICAL FLUORIDE TEATMENT
+nan, Topical fluoride treatment procedures involve the professionally application of topical fluoride within the dental office. Excludes fluoride application as part of prophylaxis paste, fluoride rinses or “swish."_x000D_
+For application of desensitising medicaments, see codes 8166 and 8167 in the supplementary section.
+8161, Topical application of fluoride - child
+8162, Topical application of fluoride - adult
+nan, SPACE MAINTENANCE (PASSIVE APPLIANCES)
+nan, Passive appliances are designed to prevent tooth movement.
+8173, Space maintainer - fixed, per abutment
+8174, Recementation of space maintainer
+8175, Space maintainer  - removable
+nan, OTHER PREVENTIVE PROCEDURES
+*8149, Nutritional counselling
+*8150, Tobacco counselling
+*8151, Oral hygiene instruction
+*8153, Oral hygiene instruction - each additional visit
+8163, Sealant - per tooth
+8169, Occlusal guard
+8171, Mouth guard
+8177, Oral hygiene instruction (periodontally compromised patient)
+8178, Oral hygiene instruction - each additional visit (periodontally compromised patient)
+C., RESTORATIVE SERVICES
+nan, The branch of dentistry that deals with the reconstruction of the hard tissues of a tooth or group of teeth, injured or destroyed by trauma or disease. Restorative services/procedures intend to restore the function of a natural tooth._x000D_
+Anterior teeth include incisors and canines. Posterior teeth include premolars and molars._x000D_
+The number of tooth surfaces restored, i.e. mesial, occlusal (or incisal), distal, lingual, or vestibular (buccal or labial), is used to determine the appropriate procedure code. A one surface restoration for example, involves only one of the surfaces, while a two-surface restoration extends to two of the five surfaces. With a four-or-more-surfaces anterior restoration involving four tooth surfaces and the incisal angle is involved._x000D_
+Limitations on amalgam and resin-based composite restorations:_x000D_
+(1) The reporting of two separate restorations of the same material (e.g., a MO and DO amalgam restoration) on the same tooth is appropriate. Some medical schemes however, have a clause in its dental plan(s) that restricts coverage of the same tooth surface, such as an occlusal, twice on the same day and may require the reporting of a MOD restoration instead of a separate MO and DO restoration._x000D_
+(2) The current NHRPL rates include direct pulp capping (code 8301) and rubber dam application (code 8304).
+nan, AMALGAM RESTORATIONS
+nan, All adhesives, liners, bases and polishing are included as part of the restoration. If pins are used, they should be reported separately._x000D_
+See codes 8345, 8347 and 8348 for post and/or pin retention.
+8341, Amalgam - one surface
+8342, Amalgam - two surfaces
+8343, Amalgam - three surfaces
+8344, Amalgam - four or more surfaces
+8346, Restorative Material Factor
+nan, RESIN-BASED COMPOSITE RESTORATIONS
+nan, Resin restorations refer to a broad category of materials including but not limited to composites. Report these codes when glass ionomers/compomers are used as restorations. The procedures include acid etching, adhesives (including resin bonding agents) and curing part of the restoration. _x000D_
+Resin restorations utilise the direct technique. For the indirect technique, see “Resin inlays/onlays”_x000D_
+If pins are used, they should be reported in addition to these codes - See codes 8345, 8347 and 8348 for post and/or pin retention.
+8350, Resin crown - anterior primary tooth (direct)
+8351, Resin - one surface, anterior
+8352, Resin - two surfaces, anterior
+8353, Resin - three surfaces, anterior
+8354, Resin - four or more surfaces, anterior
+8367, Resin - one surface, posterior
+8368, Resin - two surfaces, posterior
+8369, Resin - three surfaces, posterior
+8370, Resin - four or more surfaces, posterior
+nan, GOLD FOIL RESTORATIONS - DELETED FROM GEMS TARIFF 2011
+*8561, Gold foil class I or IV - DELETED FROM GEMS TARIFF 2011
+*8563, Gold foil class V - DELETED FROM GEMS TARIFF 2011
+*8565, Gold foil class III - DELETED FROM GEMS TARIFF 2011
+nan, INLAY/ONLAY RESTORATIONS
+nan, Temporary and/or intermediate inlays/onlays, the removal thereof and cementing of the permanent restoration are included as part of the restoration. The cusp tip must be overlaid to be considered an onlay.
+nan, Metal Inlays/Onlays
+nan, Use these codes for single metal inlay/onlay restorations. See the Fixed Prosthodontic Service section for metal inlay/only bridge retainers._x000D_
+Metal components include structures manufactured by means of conventional casting and/or electroforming._x000D_
+The benefits provided by some medical schemes for metal inlays on anterior teeth (incisors and canines) may be subject to pre-authorisation.
+8360, Temporary   inlay/onlay
+8361, Inlay - metal - one surface
+8362, Inlay/onlay - metal - two surfaces
+8363, Inlay/onlay - metal - three surfaces
+8364, Inlay/onlay - metal - four or more surfaces
+nan, Porcelain/Ceramic Inlays/Onlays
+nan, Use these codes for single porcelain/ceramic inlay/onlay restorations. See the Fixed Prosthodontic Service section for porcelain/ceramic inlay/only bridge retainers._x000D_
+Porcelain/ceramic inlays/onlays include all indirect ceramic, porcelain and polymer-reinforced porcelain type inlays/onlays._x000D_
+Fees for the application of a rubber dam (8304) may be levied in addition to these codes._x000D_
+TO BE CONFIRMED: When computer generated (CAD-CAM) ceramic restorations are fabricated by the dental practitioner, laboratory costs do not apply. Report codes 8570 (Fabrication of computer generated ceramic restoration) and 8560 for the cost of the ceramic block in addition to the restoration.
+8371, Inlay - porcelain - one surface
+8372, Inlay/onlay - porcelain - two surfaces
+8373, Inlay/onlay - porcelain - three surfaces
+8374, Inlay/onlay - porcelain - four or more surfaces
+nan, Procedures utilizing computer generated restorations
+nan, Fabrication of computer generated restorations
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic restoration by the dental practitioner. This includes the design, milling, and finishing of the resin or ceramic restoration and replace the laboratory codes used when resin or ceramic restorations are made by conventional means in a dental laboratory. The codes 8560 and 8570 are currently used. Please use codes 8519 -8526 for fabrication and 8527 and 8528 for direct cost of material. Code 8304 (isolation of tooth/teeth) may be levied in addition to these codes.  M8023 is applied for th
+8519, Fabrication of computer generated 1-3 surface resin or  ceramic inlay or onlay
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic restoration by the dental practitioner. See Code 8527, 8528 for cost of materials. Practitioners will use this code and not the usual laboratory fees (8099)
+8520, Fabrication of computer generated 4 or more surface resin or ceramic inlay or onlay
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic inlay or onlay by the dental practitioner. See Code, 8527, 8528 for cost of materials. Practitioners will use this code and not the usual laboratory fees (8099)
+8521, Fabrication of computer generated resin or ceramic crown
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic crown by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)
+8522, Fabrication of computer generated  resin or ceramic crown retainer, per unit as part of bridge framework
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic crown retainer by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)
+8523, Fabrication of computer generated  resin or ceramic pontic, per unit as part of bridge framework
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic pontic by the dental practitioner. See Code, 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)
+8524, Fabrication of computer generated resin or  ceramic veneer for bridge framework, per unit
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic veneer for bridge framework by the dental practitioner. See code, 8527 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) ceramic restoration by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)
+nan, This procedure involves the fabrication of a computer generated (CAD-CAM) ceramic restoration by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)
+nan, Direct cost of materials in the fabrication of computer generated restorations
+8525, Fabrication of computer generated ceramic implant supported restoration, per unit
+8526, Fabrication of a computer generated ceramic implant abutment, per unit
+8527, Direct Cost of material in the fabrication of computer generated resin restoration.
+8528, Direct Cost of material in the fabrication of computer generated ceramic restoration.
+8560, Cost of ceramic block
+8570, Fabrication of computer generated ceramic restoration
+nan, Resin-based Inlays/Onlays
+nan, Resin based inlays/onlays usually utilise the indirect technique._x000D_
+Fees for the application of a rubber dam (8304) may be levied in addition to these codes._x000D_
+When the direct technique is used, laboratory costs do not apply. An additional fee may be levied by reporting Modifier 8023 in addition to these codes.
+8381, Inlay - resin - one surface
+8382, Inlay/onlay - resin - two surfaces
+8383, Inlay/onlay - resin - three surfaces
+8384, Inlay/onlay - resin - four or more surfaces
+8385, Fabrication of Indirect resin inlay/onlay restoration
+nan, CROWNS – SINGLE RESTORATIONS
+nan, Use these codes for single crown restorations. See the Fixed Prosthodontic Service section for crown bridge retainers and the Implant Services section for crowns on osseo-integrated implants._x000D_
+Porcelain/ceramic crowns include all ceramic, porcelain and porcelain fused to metal crowns.  Resin crowns and resin metal crowns include all reinforced heat and/or pressure-cured resin materials. Metal components include structures manufactured by means of conventional casting and/or electroforming._x000D_
+Temporary and/or intermediate crowns, the removal thereof (provisional crowns included) and cementing of the permanent restorations are included as part of the restorations._x000D_
+TO BE CONFIRMED: When computer generated (CAD-CAM) ceramic restorations are fabricated by the dental practitioner, laboratory costs do not apply. Report codes 8570 (Fabrication of computer generated ceramic restoration) and 8560 for the cost of the ceramic block in addition to the restoration.
+8400, Temporary crown
+8401, Crown - full cast metal
+8403, Crown - 3/4 cast metal
+8404, Crown - 3/4 porcelain/ceramic
+8405, Crown - resin laboratory
+8406, Crown – three-quarter resin (indirect)
+8407, Crown - resin with metal
+8409, Crown - porcelain/ceramic
+8411, Crown - porcelain with metal
+8410, Provisional crown
+nan, VENEERS
+8355, Veneer - resin (chair-side)
+8552, Veneer - porcelain (laboratory)
+8554, Veneer - resin (laboratory)
+nan, TEMPORARY RESTORATIONS
+8137, Emergency crown (chair-side)
+8357, Prefabricated metal crown
+8480, Cost of Prefabricated metal restoration
+8375, Prefabricated non-metal crown
+8380, Cost of prefabricated non-metal restoration or crown
+nan, OTHER RESTORATIVE PROCEDURES
+nan, Pin Retention and Cores
+8345, Prefabricated post retention, per post (in addition to restoration)
+8347, Pin retention - first pin (in addition to restoration)
+8348, Pin retention - each additional pin (in addition to restoration)
+8366, Pin retention as part of cast restoration (any number of pins)
+8376, Core build-up with prefabricated posts
+8379, Cost of prefabricated posts
+8391, Cast core with single post
+8392, Cast post (each additional)
+8397, Cast core with pins (any number of pins)
+8396, Coping – metal
+8398, Core build-up with or without pins
+8581, Cast core with single post
+8582, Cast core with double post
+8583, Cast core with triple post
+nan, Unclassified Restorative Procedures
+8130, Rebond veneer
+8133, Recement inlay, onlay, crown or veneer
+8142, Recement inlay/onlay/veneer
+8134, Recement cast core or post
+8135, Remove inlay, onlay or crown
+8156, Removal of inlay/onlay/Veneer
+8138, Remove retention post (prefabricated or cast)
+*8146, Resin bonding for restorations
+8228, ART restorations
+8157, Re-burnishing and polishing of restorations - complete dentition
+8349, Carve restoration to accommodate existing removable prosthesis
+8413, Repair crown (permanent or provisional)
+8414, Additional fee for provision of crown within an existing clasp or rest
+D., ENDODONTIC SERVICES
+nan, Services/procedures intended to treat diseases of the dental pulp and their sequelae.
+nan, Root canal therapy on primary teeth
+nan, Endodontic therapy procedures on primary teeth include both root canal prepartation and obturation. Does not include diagnostic evaluation and necessary radiographs/diagnostic images. Report code 8304 (isolation of tooth/teeth) in addition to these codes when used.
+nan, Anterior primary teeth include incisors and canines.
+nan, PULP CAPPING
+nan, These codes should not be used as a base or liner under a restoration. Certain funders (medical aids) may restrict the placement of the final restoration during the same visit.
+8301, Pulp cap - direct
+8303, Pulp cap - indirect
+nan, PULPOTOMY
+8307, Pulp amputation (pulpotomy)
+8132, Pulp removal (pulpectomy)
+nan, ENDODONTIC THERAPY
+nan, Includes endodontic therapy on primary teeth. Does not include diagnostic evaluation and necessary radiographs/ diagnostic images._x000D_
+Limitation: Intra-operative radiographs/ diagnostic images are limited to three on a single canal tooth and five on a multi-canal tooth for each completed endodontic therapy._x000D_
+Report code 8304 (application of a rubber dam) in addition to these codes.
+nan, Preparatoty Visits
+8332, Root canal preparatory visit - single canal tooth
+8333, Root canal preparatory visit - multi canal tooth
+8317, Root canal preparation, each additional canal
+nan, Preparation of the canal. May require further appointments to prepare the canal. Obturation is done in a subsequent appointment.
+8318, Irrigation and medication per tooth at a separate visit
+nan, Obtuation of Canals
+nan, Codes 8328, 8335, 8336 and 8337 (obturation of root canals at a subsequent visit) are intended to be used in conjunction with codes 8332, 8333 and 8334 (endodontic preparatory visits and re-preparation of previously obturated canal).
+8335, Root canal obturation - anteriors and premolars - first canal
+8328, Root canal obturation - anteriors and premolars - each additional canal
+8336, Root canal obturation - posteriors - first canal
+8337, Root canal obturation - posteriors - each additional canal
+nan, Complete Therapy
+nan, Codes 8329, 8338, 8339 and 8340 (endodontic treatment completed at a single visit) may not be used with codes 8332, 8333 and 8334 (endodontic preparatory visits and re-preparation of previously obturated canal).
+8338, Root canal therapy - anteriors and premolars - first canal
+8329, Root canal therapy - anteriors and premolars - each additional canal
+8339, Root canal therapy - posteriors - first canal
+8340, Root canal therapy - posteriors - each additional canal
+8631, Root canal therapy - first canal
+8633, Root canal therapy - each additional canal
+8639, Endodontic instruments per patient per completed treatment.
+nan, ENDODONTIC RETREATMENT
+8334, Re-preparation of previously obturated root canal
+8323, Retreatment of previously completed root canal therapy, each additional canal
+– anterior or premolar
+8324, Retreatment of previously completed root canal therapy, each additional canal – molar
+nan, APEXIFICATION/RECALCIFICATION PROCEDURES
+8634, Apexification/ apexogenesis /revascularisation - initial visit
+8635, Apexification/recalcification – per visit
+nan, PERIRADICULAR PROCEDURES
+8637, Apicectomy/ periradicular surgery, first root – anteriors or premolars
+8638, Apicectomy/ periradicular surgery, each additional root – anteriors and premolars
+9015, Apicectomy - anteriors (including retrograde filling)
+9016, Apicectomy - posteriors (including retrograde filling)
+8641, Apicectomy/ periradicular surgery, first root – molar
+8642, Apicectomy/ periradicular surgery, each additional root – molars
+nan, OTHER ENDODONTIC PROCEDURES
+8330, Removal of root canal obstruction
+8331, Repair of perforation defects
+8136, Access through a prosthetic crown or inlay to facilitate root canal treatment
+8640, Removal of fractured post or instrument from root canal
+8765, Hemisection of a tooth, resection of a root or tunnel preparation (isolated procedure)
+8792, Vestibuloplasty with teeth per sextant
+8793, Vestibuloplasty in an edentulous area per sextant
+8794, Alveoplasty with implant therapy 1-3 teeth
+8795, Alveoplasty with implant therapy 4 or more teeth
+8796, Repair of oronasal opening
+E., PERIODONTIC SERVICES
+nan, The branch of dentistry used to treat and prevent disease affecting the gingivae, ligaments and bone that supports the teeth.
+nan, SURGICAL SERVICES
+nan, Surgical services includes usual postoperative care.
+8741, Gingivectomy/gingivoplasty - four or more teeth per quadrant
+8743, Gingivectomy or gingivoplasty - one to three teeth per quadrant
+8749, Flap procedure, root planing and one to three surgical services - per quadrant
+8746, Flap operation with root planing and curettage (open curettage) – four or more teeth per quadrant
+nan, See code 8749 for descriptor
+8747, Flap operation with root planing and curettage, including bone surgery – one to three teeth per quadrant
+8748, Flap operation with root planing and curettage, including bone surgery – four or more teeth per quadrant
+8751, Flap procedure, root planing and one to three surgical services - per sextant
+8753, Flap procedure, root planing and four or more surgical services - per quadrant
+8755, Flap procedure, root planing and four or more surgical services - per sextant
+8756, Clinical crown lengthening (isolated procedure)
+8759, Pedicle flapped graft (isolated procedure)
+*8761, Masticatory mucosal autograft - one to four teeth (isolated procedure)
+*8762, Masticatory mucosal autograft - four or more teeth (isolated procedure)
+8763, Wedge resection (isolated procedure)
+*8766, Bone regeneration/repair procedure - as part of a flap operation
+*8767, Bone regeneration/repair procedure - at a single site
+*8769, Membrane removal (used for guided tissue regeneration)
+*8770, Cost of bone regenerative/repair material
+*8772, Submucosal connective tissue autograft (isolated procedure)
+8780, Alveolar process preservation, per extraction site
+8995, Gingivectomy - per jaw
+nan, NON-SURGICAL PERIODONTAL SERVICES
+8723, Provisional splinting - extracoronal (wire) - per sextant
+8725, Provisional splinting - extracoronal (wire plus resin) - per sextant
+8727, Provisional splinting - intracoronal - per tooth
+8737, Root planing - four or more teeth per quadrant
+8739, Root planing - one to three teeth per quadrant
+8773, Cost of intrapocket chemotherapeutic agent
+nan, OTHER PERIODONTAL SERVICES
+8711, The visualisation enhancement adjunct (VEA)
+8768, Unlisted periodontal procedure
+8732, Topical treatment of diseased soft tissue
+8787, Unlisted oral medicine procedure
+F., REMOVABLE PROSTHODONTICS
+nan, The branch of prosthodontics concerned with the replacement of teeth by artificial substitutes that is readily removable._x000D_
+Removable prosthodontic services include routine post-operative care.
+nan, COMPLETE DENTURES
+8231, Complete dentures - maxillary and mandibular
+8232, Complete denture - maxillary or mandibular
+8244, Immediate denture - maxillary
+8245, Immediate denture - mandibular
+8246, Immediate denture – Partial
+8643, Complete dentures - maxillary and mandibular (with complications)
+8645, Complete dentures - maxillary and mandibular (with major complications)
+8646, Immediate denture – maxillary or mandibular    Only for Prosthodontist
+8647, Immediate denture – maxillary or mandibular (with major complications) Only for Prosthodontist
+8649, Complete denture - maxillary or mandibular (with complications)
+8651, Immediate Denture Mandibular. Only for Prosthodontist
+nan, PARTIAL DENTURES
+8233, Partial denture - resin base - one tooth
+8234, Partial denture - resin base - two teeth
+8235, Partial denture - resin base - three teeth
+8236, Partial denture - resin base - four teeth
+8237, Partial denture - resin base - five teeth
+8238, Partial denture - resin base - six teeth
+8239, Partial denture - resin base - seven teeth
+8240, Partial denture - resin base - eight teeth
+8241, Partial denture - resin base - nine or more teeth
+8281, Partial denture - cast metal framework only
+8283, Partial denture – Flexidenture framework
+8284, Full denture –Flexidenture framework
+8671, Partial denture - cast metal framework with resin denture base
+nan, ADJUSTMENTS TO DENTURES
+8275, Adjust complete or partial denture
+8662, Adjust complete or partial dentures (remounting)
+nan, REPAIRS TO DENTURES
+nan, Professional fees should not be levied for the repair of dentures/intra-oral appliances if the practitioner did not examine the patient. Laboratory costs, however, may be recovered.
+8269, Repair denture or other intra-oral appliance
+8270, Add clasp to existing partial denture
+8271, Add tooth to existing partial denture
+8273, Impression to repair or modify a denture or other intra-oral appliance
+8278, Modification of surgical conformer.
+nan, DENTURE REBASE PROCEDURES
+nan, Rebase – The partial or complete removal and replacement of the denture base.
+8259, Rebase complete or partial denture (laboratory)
+8261, Remodel complete or partial denture
+nan, DENTURE RELINE PROCEDURES
+nan, Reline - The addition of material to the fitting surface of a denture base.
+8263, Reline complete or partial denture (chair-side)
+8267, Reline complete or partial denture (laboratory)
+nan, INTERIM DENTURES
+nan, Also known as provisional, temporary, or transitional dentures. Provisional dentures are used for a limited period of time for reasons of aesthetics, function or occlusal support, after which it is replaced by a more definitive prosthesis.
+8658, Interim complete denture
+8659, Interim partial denture
+8661, Diagnostic dentures (including tissue conditioning)
+nan, OTHER REMOVABLE PROSTHETIC PROCEDURES
+*8251, Clasp or rest - cast gold
+*8253, Clasp or rest - wrought gold
+8255, Clasp or rest - stainless steel
+8257, Bar - lingual or palatal
+8265, Tissues conditioning per arch (including soft self-cure reline)
+*8277, Inlay in denture
+8597, Locks and milled rests
+8599, Precision attachment (removable denture)
+8652, Overdenture - complete
+8653, Overdenture - partial
+8657, Replacement of precision attachment
+8663, Metal base to complete denture
+8664, Remount crown or bridge for prosthetics
+8667, Soft base to denture (heat cured)
+8672, Altered cast technique (in addition to partial denture)
+8674, Additive partial denture
+G., MAXILLO-FACIAL PROSTHETICS
+nan, The branch of prosthodontics concerned with the restoration of stomatognathic and associated facial structures that have been affected by disease, injury, surgery or congenital defect._x000D_
+Where “+D” appears the practitioner will charge the relevant fee/benefit for the denture in the Where “+D” appears the practitioner will charge the relevant fee/benefit for the denture in the Schedule plus the fee/benefit indicated
+9196, Planning for Craniofacial Reconstruction – Simple
+9197, Planning for Craniofacial Reconstruction – Complex
+nan, MAXILLIARY PROSTHESIS
+9101, Obturator prosthesis, surgical - modified denture
+9102, Obturator prosthesis, surgical - continuous base
+9103, Obturator prosthesis, surgical - split base
+9104, Obturator prosthesis, interim - on existing denture
+9105, Obturator prosthesis, interim - on new denture
+9106, Obturator prosthesis, definitive - open/hollow box
+9107, Obturator prosthesis, definitive - silicone glove
+nan, Obturator prosthesis modification
+8685, Modification of obturator prostheses per visit.
+nan, MANDIBULAR RESECTION PROSTHESES
+9108, Mandibular resection prosthesis w/ guide flange
+9109, Mandibular resection prosthesis w/o guide flange
+9110, Mandibular resection prosthesis, palatal augmentation
+nan, Sleep apnea
+nan, GLOSSAL RESECTION PROSTHESES
+9111, Glossal resection prosthesis - simple
+9112, Glossal resection prosthesis - complex
+nan, RADIOTHERAPY APPLIANCES
+9113, Radiation carrier - simple
+9114, Radiation carrier - complex
+9115, Radiation shield - simple
+9116, Radiation shield - complex
+9117, Radiation cone locator
+nan, CHEMOTHERAPY APPLIANCES
+9118, Chemotherapeutic agent carrier
+nan, CLEFT PALATE PROSTHESES
+8855, Consultation - cleft palate therapy (house or hospital)
+8856, Consultation - cleft palate (subsequent)
+8857, Consultation - cleft palate (maximum)
+nan, NEONATAL PROSTHESES
+9119, Feeding aid prosthesis, neonatal
+9120, Orthopaedic appliance, active presurgical - minor
+9121, Orthopaedic appliance, active presurgical - moderate
+9122, Orthopaedic appliance, active presurgical - severe
+9123, Orthopaedic appliance, active presurgical - modification
+nan, INTERMEDIATE/DEFINITIVE PROSTHESES
+9125, Speech aid/obturator prosthesis - palatal alteration
+9126, Speech aid/obturator prosthesis - velar alteration
+9127, Speech aid/obturator prosthesis - pharyngeal alteration
+9128, Speech aid/obturator prosthesis - modification
+9129, Speech aid/obturator prosthesis - surgical
+nan, SPEACH APPLIANCES
+9130, Speech aid appliance - palatal lift
+9131, Speech aid appliance - palatal stimulating
+9132, Speech aid appliance - bulb
+9133, Speech aid appliance - modification
+9134, Unspecified speech aid appliance
+nan, EXTRA-ORAL APPLIANCES
+9135, Auricular prosthesis - simple
+9136, Auricular prosthesis - complex
+9137, Nasal prosthesis - simple
+9138, Nasal prosthesis - complex
+9139, Ocular prosthesis - interim
+9140, Ocular prosthesis - modified stock appliance
+9141, Ocular prosthesis - custom appliance
+9142, Orbital prosthesis - simple
+9143, Orbital prosthesis - complex
+9144, Facial prosthesis, combination - small
+9145, Facial prosthesis, combination - medium
+9146, Facial prosthesis, combination - large
+9147, Facial prosthesis, combination - complex
+9148, Unspecified body prosthesis - simple
+9149, Unspecified body prosthesis - complex
+9150, Facial prosthesis, surgical - simple
+9151, Facial prosthesis, surgical - complex
+9152, Extraoral appliance - additional prosthesis
+9153, Extraoral appliance - replacement prosthesis
+9155, Cranial prosthesis
+nan, CUSTOM IMPLANTS
+9156, Cranial implant prosthesis, custom made
+9157, Facial implant prosthesis, custom made - simple
+9158, Facial implant prosthesis, custom made - complex
+9159, Ocular implant prosthesis, custom made
+9160, Body implant prosthesis - custom made
+nan, SURGICAL APPLIANCES
+9154, Cost of Surgical Splint
+9161, Surgical splint - simple
+9162, Surgical splint - complex
+9163, Surgical template - simple
+9164, Surgical template - complex
+9165, Surgical conformer - simple
+9166, Surgical conformer - complex
+nan, TRISMUS APPLIANCES
+9167, Trismus appliance (simple)
+9168, Trismus appliance (complex)
+9169, Orthoses appliance
+9170, Facial palsy appliance
+9171, Commissure splint
+9172, Oral retractor, dynamic - per arm
+9173, Hand splint
+9174, Unspecified burn appliance
+nan, ATTENDANCE IN THEATRE
+9175, Theatre attendance (MaxFac prosthod) /hour
+H., IMPLANT SERVICES
+nan, Services/procedures concerned with the surgical insertion of materials and devices into, onto and about the jaws and oral cavity for purposes of oral maxillofacial or oral occlusal rehabilitation or cosmetic corrections.
+nan, SURGICAL IMPLANT PROCEDURES
+nan, The codes in this subsection are intended to report surgical procedures for the placement of implants to be used as prosthetic abutments. The surgical phase includes all procedures concerned with placing the implant into or onto the bone and preparation for the prosthetic phase.
+*9180, Surgical placement of sub-periosteal implant - preparatory stage
+*9181, Surgical placement of sub-periosteal implant - placement stage
+*9182, Surgical placement of endosteal implant plate
+8216, CBCT of plaster models or impressions for the purpose of creating virtual models for use in planning software
+*9183, Surgical placement of endosteal implant - first per jaw
+*9184, Surgical placement of endosteal implant - second per jaw
+*9185, Surgical placement of endosteal implant - third and subsequent per jaw
+*9190, Surgical placement of abutment - first per jaw
+*9191, Surgical placement of abutment - second per jaw
+*9192, Surgical placement of abutment - third and subsequent per jaw
+nan, IMPLANT SUPPORTED PROSTHETICS
+nan, Services/procedures concerned with the construction and placement of fixed or removable prosthesis on any implant device. Prosthetic devices which are not listed in this subsection should be reported using existing fixed or removable prosthetic codes.
+nan, Abutments and Bars
+nan, These codes are intended to report the placement of final restorations and should not be used to report the placement of temporary/provisional components e.g., healing abutments/collars, temporary abutments, caps, cylinders, etc.Abutments as part of one-piece endosteal implants (incorporating both the implant and integral fixed abutment) are considered being part of the implant body and should not be reported in addition to the surgical placement of the implant.See Codes 9187 to 9189 located in the “Other implant services” section to submit the cost of implant components.
+*8584, Connector bar - implant supported
+8669, Crown cemented on a screw-retained implant-supported superstructure.
+*8578, Prefabricated abutment
+*8579, Custom abutment
+8580, Modification of prefabricated abutment
+nan, Removable Dentures
+*8533, Implant supported removable complete overdenture
+*8534, Implant supported removable partial overdenture
+nan, Fixed-detachable Dentures
+*8654, Implant supported fixed-detachable complete overdenture
+8550, Retainer-Implant/Abutment Supported
+*8655, Implant supported fixed-detachable partial overdenture
+*8660, Additional fee to implant supported fixed-detachable denture - per implant
+nan, Crowns - Single Restorations
+*8536, Crown - implant/abutment supported - porcelain/ceramic
+*8537, Crown - implant/abutment supported - porcelain with metal
+*8538, Crown - implant/abutment supported - cast metal
+8539, Crown-Implant / abutment supported crown – resin veneered to metal
+8541, Implant supported temporary crown – cemented
+8542, Implant supported temporary crown – screw retained
+8543, Implant supported provisional crown – cemented
+8544, Implant supported provisional crown – screw retained
+8592, Crown - implant/abutment supported
+8673, Access through a cemented implant supported crown for screw location
+nan, Bridge Retainers - Crowns
+*8546, Crown retainer - implant/abutment supported - porcelain/ceramic
+*8547, Crown retainer - implant/abutment supported - porcelain with metal
+*8548, Crown retainer - implant/abutment supported - cast metal
+8549, Implant supported crown retainer – resin veneered to metal
+8571, Implant supported temporary retainer – cemented
+8572, Implant supported temporary crown  retainer – screw retained
+8573, Implant supported provisional crown retainer – cemented
+8574, Implant supported provisional crown retainer – screw retained
+nan, OTHER IMPLANT SERVICES
+8665, Mini screw implants
+8666, Immediate loading of implant
+8668, Metal base for implant supported denture - complete
+8621, Metal base for implant supported denture – Partial
+8670, Implant screw access closure
+8588, Implant supported superstructure
+*8590, Implant maintenance procedures - per implant
+8591, Removal of implant supported prosthesis
+8593, Repair of implant supported resin prosthesis
+*8594, Repair of implant supported prosthesis
+*8595, Repair of implant abutment
+8596, Repair of implant supported ceramic or ceramometal crown, retainer or pontic
+8598, Repair of implant supported Provisional Prosthesis
+*8600, Cost of implant components
+*9187, Cost of endosteal implant body
+*9188, Cost of prefabricated abutment
+*9189, Cost of other implant compnts
+9193, Report as an additional code for the placement of endosseus implant into fresh extraction socket
+9194, Surgical placement of one-piece trans mucosal endosseus implant
+9195, Additional code for the surgical placement of single phase endosseus implant
+8603, Removal of fractured/damaged screw within implant.
+8604, Removal of fractured/damaged screw within abutment.
+8605, Surgical placement of one piece transmucosal implant for orthodontic retention.
+8607, Skeletal anchorage - screw, plate or implant
+8608, Removal of non-integrated implant
+8609, Flap operation with modification of the implant surface, including bone surgery-one to three implants per quadrant
+8610, Flap operation with modification of the implant surface, including bone surgery-four or more implants per quadrant
+8612, Skeletal anchorage - removal
+*9198, Surgical removal of implant
+I., FIXED PROSTHODONTICS
+nan, The branch of prosthodontics concerned with the replacement or restoration of teeth by artificial substitutes that are not readily removable._x000D_
+A prosthetic retainer (e.g., crown/inlay/onlay retainer) in this section is defined as a part of a bridge that attaches a pontic to the abutment tooth.  A pontic is that part of a bridge which replaces a missing tooth or teeth. Each retainer and each pontic constitutes a unit in a bridge._x000D_
+Porcelain/ceramic retainers and pontics presently include all ceramic, porcelain and porcelain fused to metal retainers and pontics._x000D_
+Resin retainers and pontics and resin metal retainers and pontics include all reinforced heat and/or pressure-cured resin materials._x000D_
+Metal components include structures manufactured by means of conventional casting and/or electroforming.
+nan, PONTICS
+nan, Comment: Codes 8415, 8416, 8417and 8418 include ovate pontic designs. The nomenclatures of the pontics have been revised to coincide with the nomenclature used for crowns, which improves accurate record keeping. A similar approach has been followed for crowns and inlays/onlays utilised as bridge retainers.
+8415, Pontic - porcelain/ceramic
+8416, Pontic - cast metal
+8417, Pontic - resin with metal
+8418, Pontic - porcelain fused to metal
+8419, Provisional pontic
+8420, Pontic – resin based composite (indirect)
+8422, Pontic – resin based composite (direct)
+8423, Ovate pontic design
+8611, Pontic - sanitary
+8613, Pontic - posterior
+8615, Pontic - anterior/premolar
+8421, Temporary pontic
+nan, BRIDGE RETAINERS – INLAYS/ONLAYS
+nan, An inlay/onlay retainer for a bridge that gains retention, support and stability from a tooth. The cusp tip must be overlayed to be considered an onlay._x000D_
+See inlay/onlay restorations in the Restorative Services Section for inlay/onlay retainers.
+8431, Temporary inlay/onlay retainer    Emergency inlay/onlay retainer. An emergency inlay/onlay retainer temporary is a custom made retainer to maintain the space and tissue until the definitive prosthesis can be placed. This code is to be used when the patient has to have a prosthesis fabricated as an emergency when the previous definitive prosthesis has failed and cannot be recemented
+8432, Inlay/onlay retainer - metal - two surfaces
+8433, Inlay/onlay retainer - metal - three surfaces
+8434, Inlay/onlay retainer - metal - four or more surfaces
+8436, Inlay/onlay retainer - porcelain - two surfaces
+8437, Inlay/onlay retainer - porcelain - three surfaces
+8438, Inlay/onlay retainer - porcelain - four or more surfaces
+8617, Retainer cast metal (Maryland type retainer)
+8618, Retainer – ceramic for resin bonded bridge
+8619, Fibre reinforced resin inlay retainer – Use for direct Maryland type resin-bonded bridges.
+nan, BRIDGE RETAINERS – CROWNS
+nan, A crown retainer for a bridge that gains retention, support and stability from a tooth.
+8440, Temporary crown retainer
+8441, Crown retainer - full cast metal
+8442, Crown retainer - 3/4 cast metal
+8443, Crown retainer - porcelain/ceramic
+8444, Crown retainer - 3/4 porcelain/ceramic
+8445, Crown retainer - porcelain with metal
+8446, Crown retainer - resin with metal
+8448, Crown retainer – resin based composite (indirect)
+8447, Provisional crown retainer
+nan, OTHER FIXED PROSTHODONTIC PROCEDURES
+nan, See “other restorative services” for procedures related to fixed prosthesis not listed in this sub-section.
+8514, Recement bridge
+8515, Sectioning of a bridge
+8516, Remove bridge
+8518, Repair bridge
+8585, Connector bar
+8586, Stress breaker
+8587, Coping metal
+J., ORAL AND MAXILLO-FACIAL SURGERY
+nan, The branch of dentistry using surgery to treat disorders/diseases of the mouth. Surgical procedures include routine postoperative care.
+nan, EXTRACTIONS
+8201, Extraction of tooth or exposed tooth roots
+8204, Minimally traumatic tooth/root removal
+nan, SURGICAL EXTRACTIONS
+nan, Report code 8220 when sutures are provided by the practitioner.
+8213, Surgical removal of residual tooth roots
+8215, Impressions for the purpose of establishing virtual models for use in planning software
+8937, Surgical removal of tooth
+8941, Surgical removal of impacted tooth
+8953, Surgical removal of residual roots, first tooth - per tooth
+nan, Distraction osteogenesis
+9067, Distraction osteogenesis – across one to two tooth sites
+9068, Distraction of the alveolar ridge -across three to five tooth sites
+9070, Distraction of the alveolar ridge -full arch
+9073, Distraction for the reconstruction of the mandibular body (per side)
+9078, Distraction for the reconstruction of the mandibular condyle and tempero-mandibular joint
+9080, Distraction for the reconstruction of the midface (internal distractor)
+9082, Distraction for the reconstruction of the midface (external distractor)
+9084, Removal of an internal or external distractor device
+nan, OTHER SURGICAL PROCEDURES
+8517, Reimplantation of avulsed tooth (include stabilisation)
+8909, Oral antral fistula closure
+9247, Bicoronal approach
+9249, Blephro-approach
+9251, Transconjunctival/subcilliary approach
+9253, Mandibular swing approach for access to the skullbase
+9255, Geniohyoidotomy (mandibular split)
+9257, Midfacial deglove, including nasal skeleton
+8916, Preauriculo-temporal approach
+8912, Transmasseteric antero-parotid approach
+8913, Condylar Risdon / submandibular approach
+8914, Endoscopic or intra-oral approach to the condyle
+8915, Intra-oral circum-oral mandibular approach
+8911, Caldwell-Luc procedure
+8917, Biopsy of oral tissue - soft
+8918, Brush biopsy
+8919, Biopsy of bone - needle
+8920, Exfoliative cytological specimen collection
+8923, Aspiration biopsy (FNA)
+8924, Open biopsy of a single lymph node in the neck
+8932, Biopsy of soft tissue – intraoral superficial, with suturing
+8934, Biopsy of soft tissue– intraoral deep or intramuscular, requiring suturing in multiple layers
+8921, Biopsy – extra-oral bone/soft tissue
+8925, Biopsy of soft tissue –extra oral deep or intramuscular, requiring suturing in multiple layers
+8926, Biopsy of tissue –intra-oral bone
+8927, Biopsy of tissue –extra-oral bone
+8928, Core Needle biopsy
+8961, Tooth transplantation
+8965, Peripheral neurectomy
+8966, Repair of oronasal fistula (local flaps)
+8981, Surgical exposure of impacted or unerupted teeth to aid eruption
+8896, Cost of materials required to aid eruption
+8983, Corticotomy - first tooth
+8984, Corticotomy - each additional tooth
+8994, Placement of Zygomaticus implant
+8996, Placement of  a second Zygomaticus implant
+8998, Craniofacial transcutaneous endosseus implant
+8999, Craniofacial trans mucosal endosseus implant
+8606, Placement of implant fixtures outside the oral cavity
+9231, Defensive corticotomy – marginal mandibulectomy
+nan, ALVEOLOPLASTY
+8955, Alveoplasty or alveolectomy in conjunction with extractions- per quadrant
+8956, Alveoplasty or alveolectomy not in conjunction with extractions – per quadrant
+8957, Alveolotomy or alveolectomy (including extractions)
+*9003, Reposition mental foramen and nerve - per side
+*9004, Lateralization of inferior dental nerve
+nan, VESTIBULOPLASTY
+nan, Any of a series of surgical procedures designed to increase relative alveolar ridge height.
+8997, Sulcoplasty / Vestibuloplasty
+nan, SURGICAL EXCISION OF SOFT TISSUE LESIONS
+8971, Excision of tumour of the soft tissue
+8970, Excision of benign soft tissue tumour/cyst
+requiring suturing in multiple layers no
+muscular involvement
+8968, Excision of benign soft tissue tumour/cyst
+requiring extensive resection and suturing in
+multiple layers with muscular involvement
+8972, Excision small malignant lesion requiring minimal suturing
+8974, Excision of malignant soft tissue tumour requiring suturing in multiple layers no muscular or intraosseus involvement
+8976, Extensive resection for malignant soft tissue tumour - excluding reconstruction
+8978, Excision of a lesion of the tongue requiring no suture or primary suture, excludes primary suture and may be reported with code 8990
+8910, Vermillionectomy
+8982, Local excision of benign lesion of lip with primary closure
+8986, Local excision of benign lesion of lip where primary closure is not possible.
+8988, Resection for lip malignancy
+nan, Repair/reconstructive procedures
+8990, Repair by primary suture
+8992, Repair by skin graft or local flap
+9006, Lip reconstruction following an injury or tumour removal: primary closure
+9018, Lip reconstruction following an injury or tumour removal: simple advancement, rotation flap (Abbe or Estlander) (first stage)
+9020, Lip reconstruction following an injury or tumour removal: simple advancement, rotation flap (Abbe or Estlander) (subsequent stages)
+9022, Lip reconstruction following an injury or tumour removal: Total complicated reconstruction with a complicated advancement flap (Bernard flap)
+nan, Neck dissection
+9026, Radical neck dissection
+9221, Posterior neck dissection
+9028, Modified radical neck dissection
+9030, Selective neck dissection.
+9034, Extended neck dissection.
+8939, Limited neck dissection
+nan, SURGICAL EXCISION OF INTRA-OSSEOUS LESIONS
+8967, Surgical removal of jaw cyst - intra-oral approach
+8969, Surgical removal of jaw cyst - extra-oral approach
+8973, Surgical excision of tumours of the jaw
+9040, Surgical removal of jaw cyst/tumor – intra-oral approach for lesions  >1cm with no involvement of vital structures
+9042, Surgical removal of jaw cyst/tumor – intra-oral approach for lesions  >1cm with involvement of vital structures, reconstructive procedures not included
+9044, Surgical excision of malignant tumours of the jaws– extra-oral approach, reconstructive procedures not included
+9054, Surgical excision of tumours of the midface (zygoma, nose and orbits), reconstructive procedures not included
+9056, Radical resection of palate (including skin graft)
+9058, Wide excision of lesion of palate
+9064, Complicated reconstruction of bony defects following major ablative procedure for head and neck cancer – soft tissue reconstruction excluded
+9086, Tumour resection from infratemporal or pterygopalatine fossa
+9088, Tarsorrhaphy
+9090, Excision of lacrimal sac: Unilateral
+9094, Orbitectomy: Removal of tumour
+9097, Orbit: Exenteration
+9290, Maxillectomy - Alveolus only, Level I
+9292, Maxillectomy - Alveolus and sinus or nasal floor, Level II
+9294, Maxillectomy - Alveolus, sinus, nasal floor and zygoma excluding orbital rim Level III
+9296, Maxillectomy - Alveolus, sinus, nasal floor and zygoma including orbital rim Level IV
+9298, Maxillectomy - Alveolus, sinus, nasal floor, zygoma, orbital rim and pterygoid plates Level V
+9300, Hemiresection of jaw including condyle and coronoid process
+nan, EXCISION OF BONE TISSUE
+8975, Hemiresection of jaw excluding condyl
+8987, Reduction of mylohyoid ridges - per side
+8989, Removal torus mandibularis
+8991, Removal of torus palatinus
+8993, Surgical reduction of osseous tuberosity - per side
+9098, Partial mandibulectomy
+nan, SURGICAL INCISION
+8731, Incision & drainage of abscess - intra-oral
+8908, Surgical removal of roots from maxillary antrum
+9011, Incision & drainage of abscess - intra-oral (pyogenic)
+9013, Incision & drainage of abscess - extra-oral (pyogenic)
+9100, Multiple extra-oral incision & drainages (eg. Ludiwig's angina)
+9299, Abscess - Retropharyngeal or equivalent
+9017, Decortication, saucerisation and sequestrectomy
+9019, Sequestrectomy - intra oral per sextant and or ramus
+nan, TREATMENT OF FRACTURES
+nan, Alveolus Fractures
+9024, Dento-alveolar fracture - per sextant
+nan, Mandibular Fractures
+9025, Mandible fracture - closed reduction
+9027, Mandible fracture - compound, with eyelet wiring
+9029, Mandible fracture - splints
+9031, Mandible fracture - open reduction
+nan, Maxilliary Fractures
+9035, Maxilla fracture - Le Fort I or Guerin
+9036, Open treatment of maxillary fracture – Le Fort I
+9037, Maxilla fracture - Le Fort II or middle third face
+9038, Open treatment of maxillary fracture – II or middle third of face
+9039, Maxilla fracture - Le Fort III or craniofacial disjunction
+nan, Zygoma/Orbital/Antral Fractures
+9041, Zygomatic arch fracture - closed reduction
+9043, Zygomatic arch fracture - open reduction
+9045, Zygomatic arch fracture - open reduction (requiring osteosynthesis and/or grafting)
+9291, Zygomatic fracture-open reduction with fixation at two sites
+8944, Zygomatic fracture-open reduction with fixation at three or more sites
+9293, Zygomatic fracture-closed reduction
+9295, Cost of device material to test implant stability.
+9297, Removal of eyelet wiring.
+8946, Zygomatic reconstruction (osteotomy or onlay)
+8947, Anthrostomy for the placement of a sinuspack in order to reduce a zygomatic fracture
+9046, Placement of Zygomaticus fixture, per fixture
+9273, Open treatment of an orbital wall fracture
+9275, Major orbital reconstruction (comminuted orbital fractures)
+9277, Secondary reconstruction of orbital defect
+9279, Eyelid surgery for facial paralysis including tarsoraphy (excludes material)
+9281, Full thickness eyelid repair (tumor or trauma surgery)
+9283, Repair by superior rectus, levator or frontalis muscle operation
+9285, Ptosis: By lesser procedure e.g. sling operation
+9287, Dacrocystorhinostomy
+nan, Nasal Fractures
+9280, Open reduction and fixation of nasal fractures
+9282, Manipulation and immobilisation of nasal fracture
+nan, TEMPOROMANDIBULAR JOINT
+nan, Procedures which are an integral part of a primary procedure should not be reported separately.
+8170, Cost of Mouth protector
+8172, Cost of orthotic appliance
+8850, Treatment of MPDS - first visit
+8851, Treatment of MPDS - subsequent visit
+8852, Occlusal orthotic appliance
+8951, Trigger point injection (local anesthesia)
+8952, Pain point injection (alcohol, phenol, etc)
+8954, Laser treatment for facial pain
+9053, Coronoidectomy (intra-oral approach)
+9074, Tmj arthroscopy diagnostic
+9075, Condylectomy, coronoidectomy or both
+9076, TMJ artrocentesis
+9077, TMJ intra-articular injection
+9079, Trigger point injection
+9081, Condylectomy (Ward/Kostecka)
+9083, TMJ srthroplasty
+9085, Reduction of TMJ disloc w/o anaesthetic
+9087, Reduction of TMJ disloc w/ anaesthetic
+9089, Reduction of TMJ disloc w/ anaesthetic and immobobilisation
+9091, Reduction of TMJ dislocation - open reduction
+9092, Joint reconstruction
+8929, Removal of temperomandibular joint prosthesis
+8930, Design meeting and / or planning for a custom prosthesis / tempero-mandibular joint, charge per joint/prosthesis designed
+nan, REPAIR OF TRAUMATIC WOUNDS
+8192, Suture - minor
+nan, COMPLICATED SUTURING
+nan, Reconstruction requiring delicate handling of tissues and undermining for meticulous closure. Excludes the closure of surgical incisions.
+9021, Suture - reconstruction, minor (excludes closure of surgical incisions)
+9023, Suture - reconstruction, major (excludes closure of surgical incisions)
+nan, OTHER REPAIR PROCEDURES
+8958, Emergency tracheotomy
+8959, Pharyngostomy
+9289, Frenulotomy
+*8962, Harvest iliac crest graft
+9208, Harvest iliac crest graft - monocortical
+9209, Harvest iliac crest graft - bicortical
+9210, Harvest tibial bone - spongiosa
+9211, Harvest iliac crest graft - bicortical
+9212, Harvest rib graft - bone
+9213, Harvest rib graft - cartilage
+*8963, Harvest rib graft
+*8964, Harvest cranium graft
+9214, Harvest auricular cartilage graft
+8977, Surgical repair of maxilla or mandible - major
+9001, Augmentation of alveolar ridge using block graft / split ridge technique – across one to two tooth sites
+9002, Augmentation of alveolar ridge using block graft / split ridge technique – across three to five tooth sites. See code 9001 for descriptor.
+*8979, Harvesting of autogenous grafts (intra-oral)
+8980, Intraoral harvesting of bone-coagulum/bone-scraping, not per site
+9215, Intra-oral harvesting of particulate bone
+9216, Harvest fascia lata
+9217, Harvest of free fat
+8985, Frenulectomy/frenulotomy
+*9005, Alveolar ridge augmentation - total (by bone graft)
+*9007, Alveolar ridge augmentation - total (by alloplastic material)
+*9008, Alveolar ridge augmentation - one to two tooth sites
+*9009, Alveolar ridge augmentation - three across 3 or more tooth sites
+*9010, Sinus lift procedure
+9012, Maxillary sinus floor bone augmentation, buccal-approach, limited
+9014, Osteotome sinus floor bone augmentation
+*9032, Open treatment of mandibular fracture through an extra-oral approach.
+*9033, Reduction of masseter muscle and bone - intra-oral approach
+8940, Endoscopic management of a condylar fracture – report per side
+9048, Surgical removal of internal fixation devices, per site
+nan, Functional Correction of Malocclusion
+nan, For Codes 9047 to 9072 the full fee may be charged.
+9206, Surgical removal of reconstruction plate
+9218, Nerve repair: 1st Fasciculus
+9219, Nerve repair: 2nd and additonal Fasciculus
+9225, Nerve repair: entubelation
+*9047, Osteotomy - open with stabilisation
+*9049, Osteotomy - mandible body, anterior segmental
+*9050, Osteotomy - total subapical
+*9051, Genioplasty
+9204, Sandwich osteotomy - for placement of an interpositional bone graft to increase the alveolar ridge height, may also be reported if utilized in the maxilla
+*9052, Midfacial exposure
+*9055, Osteotomy - segmented, posterior
+*9057, Osteotomy - segmented, anterior
+*9059, Reconstruct maxilla - Le Fort I osteotomy, one piece
+*9060, Reconstruct maxilla - Le Fort I osteotomy w/ repositioning and graft
+*9061, Palatal osteotomy
+*9062, Reconstruct maxilla - Le Fort I osteotomy, multiple segments
+9063, Reconstruct maxilla - Le Fort 2 osteotomy (facial and post-traumatic deformities)
+9065, Reconstruct maxilla - Le Fort 3 osteotomy (severe congenital deformities)
+9229, Choanal artesia repair through a palatal osteotomy
+9227, Turbinectomy
+*9066, Surgical expansion - maxilliary or mandibular
+9069, Glossectomy - partial
+*9071, Geniohyoidotomy
+9072, Close secondary oro-nasal fistula w/ bone grafting (complete procedure)
+nan, Salivary Glands
+8960, Salivary duct dilatation or canalization
+8948, Endoscopic procedure: Wharton's duct
+8949, Endoscopic procedure: Stenson's duct
+8950, Excision of a ranula (marsupealization)
+9093, Removal of salivary stone (Sialolithotomy)
+9095, Excision of sublinglual salivary gland
+9096, Excision of salivary gland - extra oral approach
+9202, Excision of submandibular salivary gland with any type of neck dissection
+9186, Closure of salivary fistula
+9176, Local resection of parotid tumour (lumpectomy)
+9177, Superficial parotidectomy
+9178, Total parotidectomy with preservation of facial nerve
+9179, Total parotidectomy without preservation of facial nerve
+nan, Pedicle Flaps
+nan, Report codes 9284, 9286 and 9288 for flaps taken for repair of post –cancer/ trauma/ tumour surgery. These are not vestibuloplasty procedures. The use of the codes are not subject to modifier use.
+9284, Musculofascial flap
+9286, Musculocranial flap
+9288, Buccal fat pad (major repair)
+9241, Simple local flap (eg. Advancement or rotation flap)
+9242, Complex local flap
+9243, Regional flap (eg pectoral, deltoid or lattisimus dorsi flap)
+9244, Tongue flap - 2 procedures
+nan, Repair of Frontal Bones
+nan, The use of codes 9274, 9275 and 9278 imply the bicoronal/ hemicoronal approach.
+9274, Repair anterior table, frontal sinus and/or supraorbital rim
+9276, Repair anterior and posterior wall w/ obturation and/or cranialisation of frontal sinus
+9278, Repair medial canthal ligament (canthopexy), per side
+9200, Cranioplasty
+9233, Obliteration of the frontal sinus
+nan, Cleft lip and Palat
+9220, Repair cleft hard palate - unilateral
+9222, Repair cleft hard palate - bilateral (one procedure)
+9224, Repair cleft hard palate - bilateral (two procedures)
+9226, Repair cleft soft palate - w/o muscle reconstruction
+9228, Repair cleft soft palate - w/ muscle reconstruction
+9230, Repair submucosal cleft and/or bifid uvula - w/ muscle reconstruction
+9232, Velopharyngeal reconstruction - uncomplicated
+9234, Velopharyngeal reconstruction - complicated
+9238, Repair oronasal fistula (one procedure)
+9240, Repair oronasal fistula (two procedures)
+9246, Secondary periosteal flaps
+9248, Lipadhesion
+9250, Repair cleft lip - unilateral w/o muscle reconstruction
+9252, Repair cleft lip - unilateral w/ muscle reconstruction
+9254, Repair cleft lip - bilateral w/o muscle reconstruction
+9256, Repair cleft lip - bilateral w/ muscle reconstruction
+9258, Repair anterior nasal floor
+9260, Revision of secondary cleft lip deformity - partial
+9262, Revision of secondary cleft lip deformity - total w/ muscle reconstruction
+9264, Abbe-flap - two stages
+9266, Reconstruct columella
+9268, Reconstruct nose due to cleft deformity - partial
+9270, Reconstruct nose due to cleft deformity - complete
+9272, Paranasal augmentation for nasal base deviation
+K., ORTHODONTIC SERVICES
+nan, The branch of dentistry used to correct malocclusions of the mouth and restore it to proper alignment and function. Includes all services/procedures concerned with the supervision, guidnance and correction of the growing and mature dentofacial structures.
+nan, REMOVABLE APPLIANCE THERAPY
+nan, Removable indicates patient can remove; includes appliances for limited orthodontic treatment (e.g., partial treatment to open spaces or upright of a tooth) and minor orthodontic treatment to control harmful habits (e.g., thumb sucking and tongue trusting).
+8862, Ortho Tx - removable appliance
+8863, Ortho Tx - each additional removable appliance
+nan, Control of harmful habits
+nan, Includes removable and fixed appliances to control harmful habits (e.g., thumbs sucking and tongue thrusting).
+8870, Therapy to control harmful habits – removable appliance
+8871, Therapy to control harmful habits – fixed appliance
+nan, FUNCTIONAL APPLIANCE THERAPY
+nan, A removable functional appliance is an appliance with no fixed dental component which is designed to harness the forces generated by the muscles of mastication and the associated soft tissues of the oro-facial region. This appliance incorporates components which act on both the maxillary and mandibular arches and should be differentiated from a simple removable appliance including appliances incorporating an anterior and posterior bite plane._x000D_
+Orthodontic treatment by means of a functional appliance is usually followed by comprehensive orthodontic treatment utilising fixed orthodontic appliances. When both phases of orthodontic treatment is provided by the same practitioner, the fees levied for treatment by means of the functional appliance, will be deducted from the fee quoted for comprehensive orthodontic treatment.
+8858, Ortho Tx - functional appliance
+nan, FIXED APPLIANCE THERAPY
+nan, Fixed Appliance Therapy - Partial
+nan, The intention of this phase in treatment is to intercept and modify the development of skeletal, dental and functional components of developing malocclusion usually in the mixed dentition._x000D_
+When the preliminary/interceptive phase(s) of orthodontic treatment is followed by comprehensive orthodontic treatment and both phases of orthodontic treatment is provided by the same practitioner, the fees levied for preliminary/interceptive orthodontic treatment will be deducted from the fee quoted for comprehensive orthodontic treatment.
+8861, Ortho Tx - partial fixed appliance - minor
+8865, Ortho Tx - partial fixed appliance - one arch
+8866, Ortho Tx - partial fixed appliance - both arches
+nan, Fixed Appliance Therapy - Comprehensive: Single Arch
+nan, This form of therapy requires the placement of fixed bands and or brackets on the majority of teeth within an arch and the subsequent placement of active arch wires to treat the case through to completion of active treatment excluding the retention phase.
+8867, Ortho Tx - fixed appliance - one arch
+8868, Ortho Tx - fixed appliance - one arch, modeate
+8869, Ortho Tx - fixed appliance - one arch, severe
+nan, Fixed Appliance Therapy - Comprehensive: Both Arches
+nan, This form of therapy requires the placement of fixed bands and or brackets on the majority of teeth within both arches and the subsequent placement of active arch wires to treat the case through to completion of active treatment excluding the retention phase.
+8873, Ortho Tx - fixed appliance - both arches, Class 1 mild
+8875, Ortho Tx - fixed appliance - both arches, Class 1 moderate
+8877, Ortho Tx - fixed appliance - both arches, Class 1 severe
+8879, Ortho Tx - fixed appliance - both arches, Class 1 severe w/ complications
+8881, Ortho Tx - fixed appliance - both arches, Class 2/3 mild
+8883, Ortho Tx - fixed appliance - both arches, Class 2/3 moderate
+8885, Ortho Tx - fixed appliance - both arches, Class 2/3 severe
+8887, Ortho Tx - fixed appliance - both arches, Class 2/3 severe w/ complications
+nan, Lingual Orthodontics - Comprehensive: Single Arch
+nan, This form of therapy requires the placement of bands and or brackets on the lingual aspect of the majority of teeth within at least one arch and must include the placement of active arch wires.
+8841, Ortho Tx - fixed lingual appliance - one arch
+8842, Ortho Tx - fixed lingual appliance - one arch, modeate
+8843, Ortho Tx - fixed lingual appliance - one arch, severe
+nan, Clear Aligner Appliance Therapy
+8830, Limited aligner treatment, single arch, up to 7 aligners.
+8831, Moderate aligner treatment, dual arch, up to 7 aligners per arch
+8832, Moderate aligner treatment, single arch, up to 14 aligners
+8833, Moderate aligner treatment, dual arch, up to 14 aligners per arch.
+8834, Full aligner treatment single arch unlimited aligners
+8835, Full aligner treatment dual arch unlimited aligners
+nan, Lingual Orthodontics - Comprehensive: Both Arches
+8874, Ortho Tx - fixed lingual appliance - both arches, Class 1 mild
+8876, Ortho Tx - fixed lingual appliance - both arches, Class 1 moderate
+8878, Ortho Tx - fixed lingual appliance - both arches, Class 1 severe
+8880, Ortho Tx - fixed lingual appliance - both arches, Class 1 severe w/ complications
+8882, Ortho Tx - fixed lingual appliance - both arches, Class 2/3 mild
+8884, Ortho Tx - fixed lingual appliance - both arches, Class 2/3 moderate
+8886, Ortho Tx - fixed lingual appliance - both arches, Class 2/3 severe
+8888, Ortho Tx - fixed lingual appliance - both arches, Class 2/3 severe w/ complications
+nan, OTHER ORTHODONTIC SERVICES
+8845, Temporary anchorage device per unit
+8482, Cost of orthodontic attachment
+8889, Attachment device
+8804, Placement of Fixed orthodontic retainer
+8805, Repair or Replacement of fixed orthodontic Retainer
+8806, Orthodontic retention visit
+8807, Post orthodontic treatment consultation
+8846, Repair orthodontic appliance - removable
+8847, Replace orthodontic appliance - removable
+8848, Repair orthodontic appliance - fixed
+8849, Retainer (orthodontic)
+8890, Monthly instalment ortho tx
+8891, Orthodontic transfer
+*8892, Orthodontic re-treatment
+L., SUPPLEMENTARY SERVICES
+nan, The branch of dentistry for unclassified treatment including palliative care and anaesthesia.
+nan, ANAESTHESIA
+8499, General Anaesthetic (Administration)
+8141, Inhalation sedation - first 15 minutes or part thereof
+8143, Inhalation sedation - each addnl 15 minutes
+8144, Intravenous sedation
+8145, Local anaesthetic - per visit
+8471, Procedural sedation or General anaesthesia- Assessment
+8472, Procedural sedation - first 30 minutes
+8473, Procedural sedation- each additional 15 minutes or part thereof
+8147, Monitoring equipment for intravenous sedation
+8474, Procedure room for Sedation
+9239, Surgical facility for surgical procedures in consulting rooms
+nan, PROFESSIONAL VISITS
+8129, Office/hospital visit – after regularly scheduled hours
+8140, House/extended care facility/hospital call
+8903, House/Hosp/Nursing home consultation - MFOS
+8904, House/Hosp/Nursing home consultation (subsequent) - MFOS
+8905, After regularly hours consultation - MFOS
+8906, Post-op visit in hospital for Neoplasm/
+Trauma/CLP (2x/day for duration of hospitalization),
+reported visit.
+8907, House/Hosp/Nursing home consultation (maximum per week) - MFOS
+9203, House/Hosp/Nursing home consultation - Oral pathologist
+9207, After hours visit - Oral pathologist
+nan, DRUGS, MEDICAMENTS AND MATERIALS
+8109, Infection control/barrier techniques
+8110, Sterilized instrumentation
+8183, Therapeutic drug injection
+8220, Cost of suture material
+8221, Cost of haemostatic sponge.
+8304, Rubber dam per arch
+8306, Cost of MTA
+9259, Distraction device for alveolar bone
+9261, Internal distraction device for maxilla or mandible
+9263, Transport distraction device
+9265, External distraction device for maxilla or mandible
+9267, Temperomandibular joint prosthesis (stock or custom)
+9269, Custom prosthesis for facial reconstruction
+9271, Cost of impression material (only to be used with code 8215)
+*8310, Supply of bleaching materials
+nan, Equipment
+nan, ADMINISTRATIVE AND LABORATORY SERVICES
+*8099, Dental laboratory service
+*8106, Special report
+*8111, Dental testimony
+*8120, Treatment plan completed
+*8139, Appointment not kept /30min
+nan, MISCELLANEOUS SERVICES
+nan, Palliative Treatment
+8131, Emergency dental treatment
+8166, Application of desensitising resin, per tooth
+8167, Application of desensitising medicament, per visit
+8165, Sedative filling
+nan, Post Surgical Complications
+8931, Treatment of post-extraction haemorrhage
+8933, Treatment of haemorrhage (blood dyscracias)
+9235, Severe nasal bleeding - anterior pack
+9236, Severe nasal bleeding - anterior + posterior pack or cauterization
+9237, Management of a patient on anti-coagulatives for the performance of a surgical procedure. This code is reported along with the appropriate surgical codes
+9223, Ligation of maxillary artery
+8935, Treatment of septic socket
+nan, Bleaching
+*8308, External bleaching - per arch
+*8309, Home bleaching - instructions and applicator
+*8311, Home bleaching - subsequent visit
+8325, Internal bleaching - per tooth
+8327, Internal bleaching - each additional visit
+nan, Unclassified Treatment
+*8158, Enamel microabrasion
+*8168, Behavior management
+8551, Occlusal adjustment - major
+*8553, Occlusal adjustment - minor
+*9099, Unlisted dental procedure or service (By report)
+nan, MODIFIERS
+8001, Assistant surgeon - specialist (1/3 of the appropriate benefit)
+8005, Maximum multiple procedures (same incision) - MFO surgeon
+8006, Multiple surgical procedures -  third and subsequent procedures (50% of the appropriate benefit)
+8007, Assistant surgeon - general dental practitioner (15% of the appropriate benefit)
+8008, Emergency surgery - after hours (PLUS 25% of the appropriate benefit)
+8009, Multiple surgical procedures - second procedure (75% of the appropriate benefit)
+8010, Open reduction (PLUS 75% of the appropriate benefit)
+8011, Procedure accompanied by unusual circumstances (Benefit PLUS X % as determined by the practitioner and agreed upon by patient/medical scheme)
+8012, Reduced services (benefit MINUS X % as determined by the practitioner)
+8013, Multiple modifiers
+8023, Fabrication of inlay/onlay (PLUS 25% of the appropriate benefit)
+8025, Handling fee - direct materials (26% of material cost to a maximum of R26.00)

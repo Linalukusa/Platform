@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matching Result</title>
+    <!-- Include any additional stylesheets or scripts if needed -->
+</head>
+<body>
+    <h1>Matching Result</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Scholarship Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for student, scholarship in matching_result.items %}
+            <tr>
+                <td>{{ student }}</td>
+                <td>{{ scholarship }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <!-- You can include additional HTML to enhance the display of the matching result -->
+</body>
+</html>

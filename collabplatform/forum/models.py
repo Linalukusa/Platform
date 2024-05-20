@@ -17,6 +17,7 @@ class Post(models.Model):
         return truncted_message.chars(30)
 
 
+    
 class Comment(models.Model):
     comment = models.TextField()
     created_on = models.DateTimeField(default=timezone.now)

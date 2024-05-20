@@ -16,8 +16,6 @@ from django.views.generic.edit import UpdateView, DeleteView
 from django.http import HttpResponseRedirect
 
 
-
-
 def forum(request):
     return render (request, 'forum/forum.html')
 

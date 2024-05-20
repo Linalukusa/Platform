@@ -18,6 +18,8 @@ urlpatterns = [
     path('',include('forum.urls')),
     path('',include('comments.urls')),
     path('',include('organisation.urls')),
+    path('',include('scholarship.urls')),
+
 
 
 
